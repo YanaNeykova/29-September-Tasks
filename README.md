@@ -1,2 +1,6 @@
 # 29-September-Tasks
-Excercises
+Exercises
+
+File used for exercises
+Making a conflict.
+
