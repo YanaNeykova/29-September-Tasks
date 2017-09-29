@@ -1,6 +1,5 @@
 # 29-September-Tasks
-Exercises
+Resolving the conflict.
+Choosing option number 3.
 
-File used for exercises
-Making a conflict.
-
+Conflict is resolved!
